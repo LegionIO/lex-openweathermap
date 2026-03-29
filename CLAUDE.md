@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to OpenWeatherMap via the REST API v2.5.
 
 **GitHub**: https://github.com/LegionIO/lex-openweathermap
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
